@@ -2,15 +2,15 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.shawnho1018.Hello</groupId>
-	<artifactId>Hello</artifactId>
+	<artifactId>hello</artifactId>
 	<version>1.0.0</version>
 
-	<name>Hello</name>
+	<name>hello</name>
 	<description>Sample Java hello for riff</description>
 	<url>https://github.com/shawnho1018/Hello</url>
 
 	<properties>
-    	<maven.compiler.source>1.8</maven.compiler.source>
-    	<maven.compiler.target>1.8</maven.compiler.target>
-  </properties>
+       	  <maven.compiler.source>1.8</maven.compiler.source>
+    	  <maven.compiler.target>1.8</maven.compiler.target>
+        </properties>
 </project>
