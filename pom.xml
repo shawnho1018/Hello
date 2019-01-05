@@ -2,10 +2,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.shawnho1018.Hello</groupId>
-	<artifactId>hello</artifactId>
+	<artifactId>Hello</artifactId>
 	<version>1.0.0</version>
 
-	<name>hello</name>
+	<name>Hello</name>
 	<description>Sample Java hello for riff</description>
 	<url>https://github.com/shawnho1018/Hello</url>
 
